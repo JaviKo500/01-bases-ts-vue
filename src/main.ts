@@ -1,7 +1,7 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
-import './bases/10-axios';
+import './bases/11-async-await';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
